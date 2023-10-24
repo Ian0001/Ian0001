@@ -3,7 +3,7 @@
 </div>  
   
 
-<div align="center">I'm Ian, a  full-stack web developer.</div>  
+### <div align="center">I'm Ian, a  full-stack web developer.</div>    
   
 
 - 🔭 I started coding on 2023 at Henry (coding academy).  
