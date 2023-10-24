@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://imageupload.io/divwrLITGiNJFYl" align="center" style="width: 100%" />
+  <a target="_blank" href="https://imageupload.io/divwrLITGiNJFYl"><img  src="https://imageupload.io/ib/dDBwFiFeho7N0A8_1698179595.png" align="center" style="width: 60%" alt="Neon Blue Music.png"/></a>
 </div>  
   
 
@@ -64,9 +64,3 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
