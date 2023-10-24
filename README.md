@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://ibb.co/FXzR8V9"><img src="https://i.ibb.co/sCq8sHh/Neon-Blue-Music.png" alt="Neon-Blue-Music" border="0"></a>
+  <a href='https://postimg.cc/sBWjgY0h' target='_blank'><img src='https://i.postimg.cc/sBWjgY0h/Neon-Blue-Music.png' border='0' alt='Neon-Blue-Music'/></a>
 </div>  
   
 
