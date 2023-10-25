@@ -42,7 +42,7 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 </div>
-<br></br><p style="margin: 20px">Email: ianvrdoljak@hotmail.es or vrdoljakian@gmail.com</p>  
+<br></br><div align="center"> <p>Email: ianvrdoljak@hotmail.es or vrdoljakian@gmail.com</p> </div>
   
 
 <br/>  
